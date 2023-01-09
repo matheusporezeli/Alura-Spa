@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Alura SPA
 
-Rápida descrição do objetivo de fazer esse projeto
+Criação de uma página de spa fazendo a estilização com sass
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Alura SPA**
+| :label: Tecnologias | HTML e CSS/SCSS
+| :rocket: URL         | https://matheusporezeli.github.io/Alura-Spa/
+| :fire: Desafio     | https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Alura spa](https://user-images.githubusercontent.com/112051389/211412826-e1c3de50-9086-4c02-bd90-401cbf3903d5.gif)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Um projeto interessante mostrando como estilizar um site utilizando SASS e tornando os arquivos css mais organizados e modificáveis com o conceito das Partials.
