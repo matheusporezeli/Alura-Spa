@@ -10,7 +10,7 @@ Criação de uma página de spa fazendo a estilização com sass
 | :fire: Desafio     | https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Alura spa](https://user-images.githubusercontent.com/112051389/211412826-e1c3de50-9086-4c02-bd90-401cbf3903d5.gif)
+![Alura spa](https://user-images.githubusercontent.com/112051389/211412826-e1c3de50-9086-4c02-bd90-401cbf3903d5.gif#vitrinedev)
 
 
 ## Detalhes do projeto
